@@ -90,14 +90,19 @@ header-icons{
     font-size: var(--h1-font);
     line-height: 1.2;
     margin-bottom: 2px;
+    
+    text-align: right;
 }
 .home-text h5{
     color: #ffffff99;
     font-size: 14px;
     font-weight: 400;
     margin-bottom: 60px;
+    text-align: right;
 }
 .home-text h3{
+   
+    text-align: right;
     font-size: 40px;
     font-weight: 700;
     letter-spacing: 2px;
